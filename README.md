@@ -18,5 +18,6 @@ The code detects vehicles in a video, tracks them, and estimates their speed bas
 - Output video with speed annotations.
 
 ## Installation
- -YOLO (Ultralytics)
- -OPEN CV
+ - YOLO (Ultralytics)
+ 
+ - OPEN CV
